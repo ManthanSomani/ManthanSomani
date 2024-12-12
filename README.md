@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManthanSomani
--  I’m interested in computers and various fields branching from it ,specifically in how we can use data to make better decisions. This project is a step toward understanding how machine learning models can be trained to improve predictions for real-world applications, such as healthcare, finance, and business operations.
+-  I’m interested in computers and various fields branching from it ,specifically in how we can use data to make better decisions
 -  I’m currently learning About Python(Programming Language)
 -  I'm Also working to gain a breif understanding and how to use Hardware components such as Aruino Uno,ESP,Sensors
 -  Pronouns:He/Him
